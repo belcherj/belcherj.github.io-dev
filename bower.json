@@ -1,0 +1,19 @@
+{
+  "name": "belcherj-github-io-dev",
+  "version": "0.0.0",
+  "dependencies": {
+    "core-elements": "Polymer/core-elements#^0.5.1",
+    "paper-elements": "Polymer/paper-elements#^0.5.1",
+    "polymer": "Polymer/polymer#^0.5.4",
+    "mark-down": "robdodson/mark-down#~0.6.3",
+    "fetch": "~0.7.0",
+    "es6-promise": "~2.0.1"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.2.3"
+  },
+  "resolutions": {
+    "core-component-page": "^0.5",
+    "polymer": "^0.5.4"
+  }
+}
