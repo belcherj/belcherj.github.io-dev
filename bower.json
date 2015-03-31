@@ -7,7 +7,8 @@
     "polymer": "Polymer/polymer#^0.5.4",
     "mark-down": "robdodson/mark-down#~0.6.3",
     "fetch": "~0.7.0",
-    "es6-promise": "~2.0.1"
+    "es6-promise": "~2.0.1",
+    "pushstate-anchor": "~0.3.0"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^2.2.3"
